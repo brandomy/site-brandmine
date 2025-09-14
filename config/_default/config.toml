@@ -1,0 +1,4 @@
+baseURL = "https://brandmine.example/"
+title = "Brandmine"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
